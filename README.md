@@ -1,7 +1,7 @@
 # William Barker, PhD
 
 ## About Me
-I am a PhD Chemist and Microbiologist with a strong passion for leveraging data science and machine learning in the fields of chemistry and virology. My academic and professional journey has equipped me with a deep understanding of these domains, and I am skilled in Python, SQL, R, and Bash scripting. I specialize in applying machine learning techniques to complex biological and chemical datasets.
+I am a PhD Chemist and Microbiologist with a strong passion for leveraging data science and machine learning in the pharmaceutical industry. My academic and professional journey has equipped me with a deep understanding of these domains, and I am skilled in Python, SQL, R, and Bash scripting. I specialize in applying machine learning techniques to complex biological and chemical datasets to gain actionable insights. I enjoy using data as a storytelling tool.
 
 ## Skills
 - **Programming Languages:** Python, R, SQL, Bash
@@ -39,7 +39,7 @@ I am a PhD Chemist and Microbiologist with a strong passion for leveraging data 
 - PhD Chemistry, Notre Dame, 2020
 - BS Chemistry, University of North Carolina at Chapel Hill, 2013
 
-## Projects
+## Personal Projects
 - [PorscheChat](https://github.com/williamtbarker/porschechat) - An LLM chatbot pre-trained on data related to Porsche automobiles. (Django, Flask, React)
 - [Porsche 911 Auction EDA](https://www.kaggle.com/williamtbarker/porsche-911-auction-eda/) - Exploratory Data Analysis and Plots of scraped car auction data. (Jupyter)
 
