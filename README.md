@@ -11,7 +11,7 @@ I am a PhD Chemist and Microbiologist with a strong passion for leveraging data 
 ## Experience
 ### Scientist, CSL Seqirus - 2021-Present
 - Research Goals: Machine Learning and Artificial Intelligence implementations that capture the complex and stochastic nature of viral infections.
-- Improved seasonal influenza vaccine dose yields (Flucelvax) by creating transgenic viruses with enhanced growth kinetics in an MDCK cell-based manufacturing system.
+- Improved seasonal influenza vaccine dose yields (Flucelvax) by creating transgenic viruses with enhanced growth kinetics in an MDCK cell-based manufacturing system.
 - Leveraged reverse genetics to generate viral seed stocks under GMP controls (BSL2+/BSL3) in support of a $60MM annual government contract to manufacture pilot batches of vaccine for novel and endemic influenza.
 - Initiated a multi-divisional project aimed at improving mammalian cell line performance by screening small molecule additives that restrict the innate antiviral immune response.
 - Supported departmental needs by volunteering on committees with oversight on the construction of new lab space, as well as company safety. Provided subject matter expertise on the safe handling and storage of chemical reagents.
