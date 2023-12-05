@@ -20,7 +20,7 @@ I am a PhD Chemist and Microbiologist with a strong passion for leveraging data 
 - PhD in Chemistry, Notre Dame, 2020
 
 ## Projects
-- PorscheChat (https://github.com/williamtbarker/porschechat) - An LLM chatbot pre-trained on data related to Porsche automobiles.
+- [PorscheChat](https://github.com/williamtbarker/porschechat) - An LLM chatbot pre-trained on data related to Porsche automobiles.
 
 ## Publications
 - J Bailey, LA Gallagher, WT Barker, VB Hubble, J Gasper, C Melander, and C Manoil. “Genetic Dissection of Antibiotic Adjuvant Activity.” mBio, January 2022.
