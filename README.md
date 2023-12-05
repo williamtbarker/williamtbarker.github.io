@@ -5,7 +5,7 @@ I am a PhD Chemist and Microbiologist with a strong passion for leveraging data 
 
 ## Skills
 - **Programming Languages:** Python, R, SQL, Bash
-- **Machine Learning Libraries:** TensorFlow, PyTorch, scikit-learn, Pandas, NumPy, Matplotlib
+- **Machine Learning Libraries:** TensorFlow, PyTorch, scikit-learn, Pandas, NumPy, SciPy, Matplotlib
 - **Database Management:** MySQL, PostgreSQL
 
 ## Experience
