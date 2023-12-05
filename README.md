@@ -26,17 +26,17 @@ I am a PhD Chemist and Microbiologist with a strong passion for leveraging data 
 - Expanded the known activity spectrum of the company lead molecule in pre-IND stage through comprehensive screening.
 - Supported IND and NADA-enabling studies by providing subject matter expertise on company core intellectual property and bacterial physiology.
 
-### PhD Candidate, Univ of Notre Dame - 2016-2020
+### PhD Candidate, University of Notre Dame - 2016-2020
 - Synthesized and optimized small molecules that reverse antibiotic resistance and modify bacterial behavior in clinically relevant pathogens.
 - Collaborated with 5 research groups and organized interdisciplinary efforts leading to 8 publications. Directly established two collaborations to enhance research quality.
 - Revised in-house laboratory safety protocols and implemented engineering controls for hazardous waste to maintain full compliance with health and safety regulations.
 
-### Research Assistant, UNC-Chapel Hill - 2010-2016
+### Research Assistant, University of North Carolina at Chapel Hill - 2010-2016
 - Designed and constructed gene targeting vectors using recombinant DNA technology in embryonic stem cells to create mouse models of human genetic diseases.
 - Validated gene sequence and function of targeted loci through standard PCR, Southern/Northern Blots, and RT-PCR techniques.
 
 ## Education
-- PhD Chemistry, Notre Dame, 2020
+- PhD Chemistry, University of Notre Dame, 2020
 - BS Chemistry, University of North Carolina at Chapel Hill, 2013
 
 ## Personal Projects
@@ -60,6 +60,7 @@ I am a PhD Chemist and Microbiologist with a strong passion for leveraging data 
 - LinkedIn: [William T. Barker](https://www.linkedin.com/in/williamtbarker)
 - GitHub: [@williamtbarker](https://williamtbarker.github.io)
 - Kaggle: [William T. Barker](https://www.kaggle.com/williamtbarker)
+- Google Scholar: [William T. Barker](https://scholar.google.com/citations?user=C74LjD8AAAAJ&hl=en)
 
 
 This README serves as a snapshot of my expertise in the intersection of chemistry, virology, and machine learning. I am always interested in collaborative opportunities that leverage these skills to address challenging problems in science and healthcare.
