@@ -11,13 +11,23 @@ I am a PhD Chemist and Microbiologist with a strong passion for leveraging data 
 ## Experience
 ### Scientist, CSL Seqirus - 2021-Present
 - Research Goals: Machine Learning and Artificial Intelligence implementations that capture the complex and stochastic nature of viral infections.
+- Improved seasonal influenza vaccine dose yields (Flucelvax) by creating transgenic viruses with enhanced growth kinetics in an MDCK cell-based manufacturing system.
+- Leveraged reverse genetics to generate viral seed stocks under GMP controls (BSL2+/BSL3) in support of a $60MM annual government contract to manufacture pilot batches of vaccine for novel and endemic influenza.
+- Initiated a multi-divisional project aimed at improving mammalian cell line performance by screening small molecule additives that restrict the innate antiviral immune response.
+- Supported departmental needs by volunteering on committees with oversight on the construction of new lab space, as well as company safety. Provided subject matter expertise on the safe handling and storage of chemical reagents.
+ 
 
 ### Lead Scientist, Agile Sciences - 2020-2021
-- Designed and performed biological assays that utilized small molecules to defeat antibiotic resistance. Defined novel strategies for treating problematic bacterial species in human and animal health: ESKAPE pathogens, Salmonella, Mycobacterium, Neisseria, Campylobacter, and many other fastidious bacterial species.
+- Designed and performed biological assays that utilized small molecules to defeat antibiotic resistance and defined novel strategies for treating problematic bacterial species in human and animal health: ESKAPE pathogens, Salmonella, Mycobacterium, Neisseria, Campylobacter, and many other fastidious bacterial species
+- Leveraged an existing collection of over 500 proprietary molecules to create a chemical library formatted for high throughput screening methods; implemented this library to find numerous hit molecules with significant potency against multi-drug resistant bacteria
+- Expanded the known activity spectrum of the company lead molecule in pre-IND stage through comprehensive screening; improved pre-clinical formulation of this molecule via methodical testing of compatible excipients.
+- Supported IND and NADA-enabling studies by providing subject matter expertise on company core intellectual property and bacterial physiology.
+
 
 
 ## Education
-- PhD in Chemistry, Notre Dame, 2020
+- PhD Chemistry, Notre Dame, 2020
+- BS Chemistry, University of North Carolina at Chapel Hill, 2013
 
 ## Projects
 - [PorscheChat](https://github.com/williamtbarker/porschechat) - An LLM chatbot pre-trained on data related to Porsche automobiles.
