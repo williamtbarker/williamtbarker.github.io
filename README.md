@@ -11,7 +11,10 @@ I am a PhD Chemist and Microbiologist with a strong passion for leveraging data 
 
 ## Experience
 ### Scientist: CSL Seqirus - 2021-Present
-- Research Goals: Machine Learning and Artificial Intelligence implementations that capture the complex and stochastic nature of viral infections.
+- Spearheading Machine learning and artificial intelligence implementations that provide insights into the stochastic nature of viruses and virus-host interactions leading to increased vaccine yields in manufacturing.
+- Pioneered research studying host cell and influenza virus interactions using next-generation sequencing and advanced R programming (dpylr, ggplot2, DESeq2) for insightful data analysis.
+- Innovated vaccine yield prediction using ProteinBERT, a state-of-the-art large language model for protein sequences, fine-tuned on known influenza protein sequences.
+- Developed a comprehensive pipeline to analyze and visualize influenza mutation patterns across the entire genome, enhancing understanding of yield fluctuations.
 - Improved seasonal influenza vaccine dose yields (Flucelvax) by creating transgenic viruses with enhanced growth kinetics in an MDCK cell-based manufacturing system.
 - Leveraged reverse genetics to generate viral seed stocks under GMP controls (BSL2+/BSL3) in support of a $60MM annual government contract to manufacture pilot batches of vaccine for novel and endemic influenza.
 - Initiated a multi-divisional project aimed at improving mammalian cell line performance by screening small molecule additives that restrict the innate antiviral immune response.
@@ -20,7 +23,7 @@ I am a PhD Chemist and Microbiologist with a strong passion for leveraging data 
 ### Lead Scientist: Agile Sciences - 2020-2021
 - Designed and performed biological assays that utilized small molecules to defeat antibiotic resistance and defined novel strategies for treating problematic bacterial species in human and animal health: ESKAPE pathogens, Salmonella, Mycobacterium, Neisseria, Campylobacter, and many other fastidious bacterial species.
 - Leveraged an existing collection of over 500 proprietary molecules to create a chemical library formatted for high throughput screening methods; implemented this library to find numerous hit molecules with significant potency against multi-drug resistant bacteria.
-- Expanded the known activity spectrum of the company lead molecule in pre-IND stage through comprehensive screening; improved pre-clinical formulation of this molecule via methodical testing of compatible excipients.
+- Expanded the known activity spectrum of the company lead molecule in pre-IND stage through comprehensive screening.
 - Supported IND and NADA-enabling studies by providing subject matter expertise on company core intellectual property and bacterial physiology.
 
 ### PhD Candidate, Univ of Notre Dame - 2016-2020
