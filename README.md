@@ -1,7 +1,7 @@
 # William Barker, PhD
 
 ## About Me
-I am a PhD Chemist and Microbiologist with a strong passion for leveraging data science and machine learning in the pharmaceutical industry. My academic and professional journey has equipped me with a deep understanding of these domains, and I am skilled in Python, SQL, R, and Bash scripting. I specialize in applying machine learning techniques to complex biological and chemical datasets to gain actionable insights. I enjoy using data as a storytelling tool.
+I am a PhD Chemist and Microbiologist with a strong passion for leveraging data science and machine learning in the pharmaceutical industry. My academic and professional journey has equipped me with a deep understanding of these domains, and I am skilled in Python, SQL, R, and Bash scripting. I specialize in applying machine learning techniques to complex biological and chemical datasets to gain actionable insights. I enjoy using data as a narrative tool.
 
 ## Skills
 - **Programming Languages:** Python, R, SQL, Bash
@@ -22,9 +22,9 @@ I am a PhD Chemist and Microbiologist with a strong passion for leveraging data 
 
 ### Lead Scientist: Agile Sciences - 2020-2021
 - Designed and performed biological assays that utilized small molecules to defeat antibiotic resistance and defined novel strategies for treating problematic bacterial species in human and animal health: ESKAPE pathogens, Salmonella, Mycobacterium, Neisseria, Campylobacter, and many other fastidious bacterial species.
-- Leveraged an existing collection of over 500 proprietary molecules to create a chemical library formatted for high throughput screening methods; implemented this library to find numerous hit molecules with significant potency against multi-drug resistant bacteria.
-- Expanded the known activity spectrum of the company lead molecule in pre-IND stage through comprehensive screening.
-- Supported IND and NADA-enabling studies by providing subject matter expertise on company core intellectual property and bacterial physiology.
+- Augmented an existing collection of proprietary small molecules to create a chemical library formatted for high throughput screening methods; implemented this library to find numerous hit molecules with significant potency against multi-drug resistant bacteria.
+- Expanded the known activity spectrum of the company lead molecule in pre-IND stage through comprehensive screening campaigns.
+- Supported IND and NADA-enabling studies by providing subject matter expertise on core intellectual property and bacterial physiology.
 
 ### PhD Candidate, University of Notre Dame - 2016-2020
 - Synthesized and optimized small molecules that reverse antibiotic resistance and modify bacterial behavior in clinically relevant pathogens.
@@ -32,8 +32,8 @@ I am a PhD Chemist and Microbiologist with a strong passion for leveraging data 
 - Revised in-house laboratory safety protocols and implemented engineering controls for hazardous waste to maintain full compliance with health and safety regulations.
 
 ### Research Assistant, University of North Carolina at Chapel Hill - 2010-2016
-- Designed and constructed gene targeting vectors using recombinant DNA technology in embryonic stem cells to create mouse models of human genetic diseases.
-- Validated gene sequence and function of targeted loci through standard PCR, Southern/Northern Blots, and RT-PCR techniques.
+- Engineered gene targeting vectors using recombinant DNA technology in embryonic stem cells to create mouse models of human genetic diseases.
+- Validated targeted loci through PCR, Southern/Northern Blots, and (q)RT-PCR techniques.
 
 ## Education
 - PhD Chemistry, University of Notre Dame, 2020
@@ -62,5 +62,5 @@ I am a PhD Chemist and Microbiologist with a strong passion for leveraging data 
 - Kaggle: [William T. Barker](https://www.kaggle.com/williamtbarker)
 - Google Scholar: [William T. Barker](https://scholar.google.com/citations?user=C74LjD8AAAAJ&hl=en)
 
-
-This README serves as a snapshot of my expertise in the intersection of chemistry, virology, and machine learning. I am always interested in collaborative opportunities that leverage these skills to address challenging problems in science and healthcare.
+---
+This README is a snapshot of my expertise at the intersection of chemistry, virology, and machine learning. I am always interested in collaborative opportunities that leverage these skills to address challenging problems in science and healthcare.
