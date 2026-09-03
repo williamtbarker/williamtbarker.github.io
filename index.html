@@ -1,0 +1,253 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#071016">
+    <meta name="color-scheme" content="dark">
+    <title>Will Barker, PhD — Scientific Software, Bioinformatics & AI</title>
+    <meta name="description" content="Portfolio of Will Barker, PhD: open-source scientific software, bioinformatics, data systems, independent consulting, and science-fiction writing.">
+    <meta name="author" content="Will Barker, PhD">
+    <meta name="robots" content="index,follow">
+    <link rel="canonical" href="https://williamtbarker.github.io/">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://williamtbarker.github.io/">
+    <meta property="og:title" content="Will Barker, PhD — Scientific Software, Bioinformatics & AI">
+    <meta property="og:description" content="Open-source scientific software, bioinformatics, data systems, independent consulting, and science-fiction writing.">
+    <meta name="twitter:card" content="summary">
+    <link rel="stylesheet" href="styles.css">
+    <script src="script.js" defer></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Skip to content</a>
+
+    <header class="site-header" data-header>
+      <div class="shell nav-wrap">
+        <a class="wordmark" href="#top" aria-label="Will Barker home">
+          <span class="wordmark-mark" aria-hidden="true">WB</span>
+          <span>Will Barker, PhD</span>
+        </a>
+        <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav" data-nav-toggle>
+          <span class="sr-only">Toggle navigation</span>
+          <span></span><span></span>
+        </button>
+        <nav id="site-nav" class="site-nav" aria-label="Primary" data-nav>
+          <a href="#work">Technical work</a>
+          <a href="#advisory">Advisory</a>
+          <a href="#fiction">Fiction</a>
+          <a href="#about">About</a>
+          <a class="nav-contact" href="#contact">Contact</a>
+        </nav>
+      </div>
+    </header>
+
+    <main id="main">
+      <section id="top" class="hero shell" aria-labelledby="hero-title">
+        <div class="hero-copy">
+          <p class="eyebrow">Scientist · Independent consultant · Science-fiction author</p>
+          <h1 id="hero-title">Turning messy biology and data into <em>decisions.</em></h1>
+          <p class="hero-lede">I build rigorous scientific software and decision-ready data workflows at the intersection of bioinformatics, machine learning, and life-sciences R&amp;D.</p>
+          <div class="hero-actions">
+            <a class="button button-primary" href="#work">Explore technical work <span aria-hidden="true">↘</span></a>
+            <a class="button button-secondary" href="mailto:contact@signalforgeadvisors.com">Discuss a project</a>
+          </div>
+        </div>
+        <aside class="hero-signal" aria-label="Technical focus">
+          <div class="signal-head">
+            <span>Current focus</span>
+            <span class="status"><span class="status-dot"></span>Building</span>
+          </div>
+          <div class="signal-line"></div>
+          <dl>
+            <div><dt>01</dt><dd>Scientific software</dd></div>
+            <div><dt>02</dt><dd>Bioinformatics &amp; omics</dd></div>
+            <div><dt>03</dt><dd>AI/ML evaluation</dd></div>
+            <div><dt>04</dt><dd>Reproducible data systems</dd></div>
+          </dl>
+        </aside>
+      </section>
+
+      <section id="work" class="section section-work">
+        <div class="shell">
+          <div class="section-heading">
+            <div>
+              <p class="eyebrow">Selected open source</p>
+              <h2>Tools built for scientific work that has to hold up.</h2>
+            </div>
+            <p>Small, focused packages with documented assumptions, deterministic tests, practical interfaces, and explicit scientific boundaries.</p>
+          </div>
+
+          <div class="project-grid">
+            <article class="project project-featured">
+              <div class="project-topline">
+                <span class="project-index">01 / Flagship</span>
+                <span class="language"><i class="rust"></i>Rust</span>
+              </div>
+              <h3><a href="https://github.com/williamtbarker/virustic2">Virustic2 <span aria-hidden="true">↗</span></a></h3>
+              <p>A deterministic de Bruijn assembler for streamed gzip FASTA/FASTQ, with quality filtering and paired-end and multi-lane support.</p>
+              <ul class="tags" aria-label="Virustic2 topics">
+                <li>viral genomics</li><li>FASTQ</li><li>assembly</li>
+              </ul>
+            </article>
+
+            <article class="project">
+              <div class="project-topline">
+                <span class="project-index">02</span>
+                <span class="language"><i class="python"></i>Python</span>
+              </div>
+              <h3><a href="https://github.com/williamtbarker/stabilomics">Stabilomics <span aria-hidden="true">↗</span></a></h3>
+              <p>Robust, deterministic LAD-LASSO stability selection for high-dimensional genomics and scientific feature tables.</p>
+              <ul class="tags" aria-label="Stabilomics topics">
+                <li>genomics</li><li>feature selection</li><li>robust statistics</li>
+              </ul>
+            </article>
+
+            <article class="project">
+              <div class="project-topline">
+                <span class="project-index">03</span>
+                <span class="language"><i class="python"></i>Python</span>
+              </div>
+              <h3><a href="https://github.com/williamtbarker/antigenic-audit">Antigenic Audit <span aria-hidden="true">↗</span></a></h3>
+              <p>Detects entity leakage, reversed-role leakage, and temporal overclaiming in influenza antigenicity evaluations.</p>
+              <ul class="tags" aria-label="Antigenic Audit topics">
+                <li>influenza</li><li>ML evaluation</li><li>data leakage</li>
+              </ul>
+            </article>
+
+            <article class="project">
+              <div class="project-topline">
+                <span class="project-index">04</span>
+                <span class="language"><i class="rust"></i>Rust</span>
+              </div>
+              <h3><a href="https://github.com/williamtbarker/refaudit">RefAudit <span aria-hidden="true">↗</span></a></h3>
+              <p>Audits how reference-genome choice changes agreement, ranks, signs, status calls, and top-k bioinformatics results.</p>
+              <ul class="tags" aria-label="RefAudit topics">
+                <li>reference genomes</li><li>data quality</li><li>reproducibility</li>
+              </ul>
+            </article>
+
+            <article class="project">
+              <div class="project-topline">
+                <span class="project-index">05</span>
+                <span class="language"><i class="python"></i>Python</span>
+              </div>
+              <h3><a href="https://github.com/williamtbarker/seqsketch">SeqSketch <span aria-hidden="true">↗</span></a></h3>
+              <p>Deterministic MinHash/LSH sequence search with exact Jaccard reranking and time-directed similarity graphs.</p>
+              <ul class="tags" aria-label="SeqSketch topics">
+                <li>MinHash</li><li>sequence search</li><li>data engineering</li>
+              </ul>
+            </article>
+
+            <article class="project">
+              <div class="project-topline">
+                <span class="project-index">06</span>
+                <span class="language"><i class="python"></i>Python</span>
+              </div>
+              <h3><a href="https://github.com/williamtbarker/benchlog">BenchLog <span aria-hidden="true">↗</span></a></h3>
+              <p>A local experiment tracker with atomic manifests, metric comparison, artifact hashing, and Git provenance.</p>
+              <ul class="tags" aria-label="BenchLog topics">
+                <li>ML operations</li><li>provenance</li><li>reproducibility</li>
+              </ul>
+            </article>
+          </div>
+
+          <a class="text-link" href="https://github.com/williamtbarker?tab=repositories">View all public repositories <span aria-hidden="true">→</span></a>
+        </div>
+      </section>
+
+      <section id="advisory" class="section section-advisory">
+        <div class="shell split">
+          <div>
+            <p class="eyebrow">SignalForge Advisors</p>
+            <h2>Decision-ready R&amp;D workflows, built with the science intact.</h2>
+          </div>
+          <div class="advisory-copy">
+            <p>I advise pharmaceutical, biotechnology, diagnostics, medtech, CRO, and life-sciences R&amp;D teams on AI and data strategy, bioinformatics, omics, scientific diligence, and controlled implementation of RAG and agentic systems.</p>
+            <div class="process" aria-label="Engagement model">
+              <div><span>01</span><strong>Scan</strong><p>Find the highest-value workflow and decision boundary.</p></div>
+              <div><span>02</span><strong>Pilot</strong><p>Build a controlled implementation with traceable evidence.</p></div>
+              <div><span>03</span><strong>Run</strong><p>Integrate the validated system into an operating cadence.</p></div>
+            </div>
+            <a class="button button-primary" href="mailto:contact@signalforgeadvisors.com">Contact SignalForge <span aria-hidden="true">↗</span></a>
+          </div>
+        </div>
+      </section>
+
+      <section id="fiction" class="section section-fiction">
+        <div class="shell split">
+          <div>
+            <p class="eyebrow">Fiction</p>
+            <h2>Difficult systems—imagined.</h2>
+            <p class="section-intro">Technically grounded science fiction about institutions, belief, technology, and the human consequences of systems built to control uncertainty.</p>
+          </div>
+          <div class="books">
+            <article>
+              <span class="book-type">Near-future thriller</span>
+              <h3>SOFTMAX</h3>
+              <p>AI governance, identity, institutional power, and the systems people build to control one another.</p>
+            </article>
+            <article>
+              <span class="book-type">Generation-ship novel</span>
+              <h3>The Orchard</h3>
+              <p>Inherited missions, partial truths, civilizational drift, and first contact.</p>
+            </article>
+            <article>
+              <span class="book-type">First-contact satire</span>
+              <h3>The Gospel According to Greg</h3>
+              <p>A preacher, an alien civilization, and the catastrophic interpretation of a message sent into space.</p>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <section id="about" class="section section-about">
+        <div class="shell split">
+          <div>
+            <p class="eyebrow">About</p>
+            <h2>Bench science, computation, and strategy.</h2>
+          </div>
+          <div>
+            <p class="about-lede">I’m a PhD chemist and microbiologist whose work spans medicinal chemistry, antibiotic resistance, influenza virology, vaccine R&amp;D, transcriptomics, machine learning, and scientific software.</p>
+            <p>Before founding SignalForge Advisors, I worked in biotechnology and vaccine development at Agile Sciences and CSL Seqirus. That background shapes how I build: scientific assumptions are documented, evaluation boundaries are explicit, and software tests are never presented as biological validation.</p>
+            <div class="focus-grid">
+              <div><h3>Code</h3><p>Python, Rust, R, SQL, Bash</p></div>
+              <div><h3>Science</h3><p>Virology, genomics, microbiology, chemistry</p></div>
+              <div><h3>Systems</h3><p>Docker, SLURM, AWS, GCP, data pipelines</p></div>
+              <div><h3>Methods</h3><p>ML, robust statistics, temporal validation, RAG</p></div>
+            </div>
+            <div class="credentials">
+              <div><span>2020</span><p><strong>PhD, Chemistry</strong><br>University of Notre Dame</p></div>
+              <div><span>2013</span><p><strong>BS, Chemistry</strong><br>University of North Carolina at Chapel Hill</p></div>
+            </div>
+            <a class="text-link" href="https://scholar.google.com/citations?user=C74LjD8AAAAJ">View publications on Google Scholar <span aria-hidden="true">↗</span></a>
+          </div>
+        </div>
+      </section>
+
+      <section id="contact" class="section section-contact">
+        <div class="shell contact-panel">
+          <div>
+            <p class="eyebrow">Contact</p>
+            <h2>Have a hard scientific or data problem?</h2>
+          </div>
+          <div>
+            <p>I’m available for select consulting engagements, technical collaborations, and conversations about my fiction.</p>
+            <div class="contact-links">
+              <a href="mailto:contact@signalforgeadvisors.com"><span>Consulting</span>contact@signalforgeadvisors.com <b aria-hidden="true">↗</b></a>
+              <a href="mailto:barkerwritesscifi@gmail.com"><span>Writing</span>barkerwritesscifi@gmail.com <b aria-hidden="true">↗</b></a>
+              <a href="https://www.linkedin.com/in/williamtbarker"><span>Professional</span>LinkedIn <b aria-hidden="true">↗</b></a>
+              <a href="https://github.com/williamtbarker"><span>Open source</span>GitHub <b aria-hidden="true">↗</b></a>
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      <div class="shell footer-wrap">
+        <p>© <span data-year>2026</span> Will Barker. Built for clarity, not clicks.</p>
+        <a href="#top">Back to top <span aria-hidden="true">↑</span></a>
+      </div>
+    </footer>
+  </body>
+</html>
