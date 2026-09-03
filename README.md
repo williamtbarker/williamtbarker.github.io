@@ -1,6 +1,6 @@
 # About Me
 
-I’m **Will Barker, PhD**—a chemist, microbiologist, scientific software developer, independent consultant, and science-fiction author.
+I’m **Will Barker**—a chemist, microbiologist, scientific software developer, independent consultant, and science-fiction author.
 
 My work spans bioinformatics, viral genomics, machine learning, scientific data systems, pharmaceutical R&D, and open-source software. I also advise life-sciences organizations through SignalForge Advisors and write systems-driven science fiction.
 
