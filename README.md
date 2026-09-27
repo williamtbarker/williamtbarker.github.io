@@ -15,3 +15,16 @@ My work spans bioinformatics, viral genomics, machine learning, scientific data 
 
 - [LinkedIn](https://www.linkedin.com/in/williamtbarker)
 - [Google Scholar](https://scholar.google.com/citations?user=C74LjD8AAAAJ)
+
+## Development
+
+The site uses static HTML, CSS, and JavaScript without a build step. From the
+repository root, run the structural checks and JavaScript syntax check:
+
+```bash
+python3 scripts/check_site.py
+node --check script.js
+```
+
+The checks cover local assets, required section IDs, page metadata, whitespace,
+and JavaScript syntax. They do not replace browser or accessibility testing.

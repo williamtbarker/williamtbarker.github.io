@@ -37,20 +37,25 @@ class SiteParser(HTMLParser):
 
 
 def check() -> None:
-    parser = SiteParser()
+    parsers: dict[Path, SiteParser] = {}
     for html_file in HTML_FILES:
         assert html_file.exists(), f"missing {html_file.name}"
+        parser = SiteParser()
         parser.current_file = html_file
         parser.feed(html_file.read_text(encoding="utf-8"))
+        parser.close()
+        assert parser.has_title, f"missing page title in {html_file.name}"
+        parsers[html_file] = parser
 
-    assert parser.has_title, "missing page title"
+    parser = parsers[ROOT / "index.html"]
     assert parser.has_description, "index.html is missing a meta description"
 
     required_ids = {"main", "top", "work", "advisory", "fiction", "about", "contact"}
     missing_ids = required_ids - parser.ids
     assert not missing_ids, f"missing required section ids: {sorted(missing_ids)}"
 
-    for source, target in parser.links:
+    links = [link for page_parser in parsers.values() for link in page_parser.links]
+    for source, target in links:
         parsed = urlparse(target)
         if parsed.scheme in {"http", "https", "mailto"} or target.startswith("#"):
             continue
